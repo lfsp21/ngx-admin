@@ -37,5 +37,5 @@ export class MimenuRoutingModule {
 export const routedComponents = [
   MimenuComponent,
   LauraComponent,
-  FabiolaComponent
+  FabiolaComponent,
 ];

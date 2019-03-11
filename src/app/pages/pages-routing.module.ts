@@ -39,12 +39,10 @@ const routes: Routes = [{
   }, {
     path: 'forms',
     loadChildren: './forms/forms.module#FormsModule',
-  }, 
-  {
+  }, {
     path: 'mimenu',
     loadChildren: './mimenu/mimenu.module#MimenuModule',
-  },
-  {
+  }, {
     path: 'tables',
     loadChildren: './tables/tables.module#TablesModule',
   }, {

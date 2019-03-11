@@ -82,7 +82,6 @@ export const MENU_ITEMS: NbMenuItem[] = [
         title: 'Fabiola',
         link: '/pages/mimenu/fabiola',
       },
-      
     ],
   },
   {
