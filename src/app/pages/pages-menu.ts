@@ -71,6 +71,21 @@ export const MENU_ITEMS: NbMenuItem[] = [
     ],
   },
   {
+    title: 'Mi menu',
+    icon: 'nb-compose',
+    children: [
+      {
+        title: 'Laura',
+        link: '/pages/mimenu/laura',
+      },
+      {
+        title: 'Fabiola',
+        link: '/pages/mimenu/fabiola',
+      },
+      
+    ],
+  },
+  {
     title: 'Forms',
     icon: 'nb-compose',
     children: [
